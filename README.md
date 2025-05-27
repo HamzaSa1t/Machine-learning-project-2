@@ -10,3 +10,6 @@ Main steps:
 - Splitting the data into training and testing sets (80% for training and 20% for testing).
 - Training a Logistic Regression model on the training data.
 - Finally: it Evaluates the model's performance using: accuracy, precision, recall, classification report, and confusion matrix.
+
+  The best accuracy we got: 93%
+
