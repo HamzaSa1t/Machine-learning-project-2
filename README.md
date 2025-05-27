@@ -11,5 +11,8 @@ Main steps:
 - Training a Logistic Regression model on the training data.
 - Finally: it Evaluates the model's performance using: accuracy, precision, recall, classification report, and confusion matrix.
 
-  The best accuracy we got: 93%
+The best accuracy we got: 93%
 
+For contact:
+Email: Hamzamoesait@gmail.com
+Linkedin: https://www.linkedin.com/in/hamza-sait-5a0332292/
