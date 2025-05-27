@@ -1,4 +1,4 @@
-This machine learning project is a the final exam i had this year (2025) in "intelligent systems" course.                                      
+This machine learning project is a the final lab exam i had this year (2025) in "intelligent systems" course.                                      
 
                                                                
 The primary objective of this machine learning project is to predict whether it will rain based on various weather parameters.  
